@@ -1,0 +1,48 @@
+
+
+body{
+    background-image: url('http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg'); 
+    margin: 0;
+}
+
+
+#red{
+    border:none;
+    background-color: #A8F0F0;
+}
+
+#orange{
+    border:none;
+    font-size: 14pt;
+}
+
+#blue{
+    border:10px thick #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top:10px;
+    overflow: hidden;
+}
+
+span {
+    border-bottom:2px dashed blue;
+}
+
+#content{
+    margin-left: 10%;
+    margin-right: 10%;
+    border:10px solid rgb(255, 255, 255);
+    background-color: white;   
+}
+
+img{
+    float:right;    
+}
+
+div:hover{
+box-shadow: yellow;
+}
+
+img:hover{
+    box-shadow: yellow;
+}
